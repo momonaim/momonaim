@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [µP MOTO6809 Simulation](https://github.com/momonaim/projects)
 
-- 🌱 I’m currently learning **Software Engineering**
+- 🌱 I’m currently learning **Computer Engineering**
 
 - 👨‍💻 All of my projects are available at [momonaim.github.io](https://momonaim.github.io)
 
