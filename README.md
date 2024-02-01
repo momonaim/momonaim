@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Engineering**
 
-- 👨‍💻 All of my projects are available at [Projects](https://momonaim.github.io/projects)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/momonaim/projects)
 
 - 💬 Ask me about **C, Java, Swing, PL/SQL**
 
