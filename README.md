@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdelmounim MOUADILI</h1>
 <h3 align="center">A Computer Science Student from Morocco</h3>
 
-- 🔭 I’m currently working on [µP MOTO6809 Simulation](https://github.com/momonaim/projects)
+- 🔭 I’m currently working on [µP MOTO6809 Simulation](https://github.com/momonaim/moto6809byASKA)
 
 - 🌱 I’m currently learning **Computer Engineering**
 
-- 👨‍💻 All of my projects are available at [momonaim.github.io](https://momonaim.github.io)
+- 👨‍💻 All of my projects are available at [Projects](https://momonaim.github.io/projects)
 
 - 💬 Ask me about **C, Java, Swing, PL/SQL**
 
