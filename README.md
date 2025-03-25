@@ -9,13 +9,21 @@
 
 - 💬 Ask me about **C, Java, Swing, PL/SQL**
 
-- 📫 How to reach me **mouadili.abd.fst@uhp.ac.ma**
+- 📫 How to reach me **momonaim01@gmail.com**
 
 - 📄 Know about my experiences [momonaim.github.io](https://momonaim.github.io)
 
-<h3 align="left">Connect with me:</h3>
+## 📞 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/abdelmounim-mouadili-6bb946283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelmounim-mouadili-6bb946283" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/abdelmounim-mouadili-6bb946283" target="blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn" height="30" width="30" style="transition: transform 0.3s ease;"/>
+  </a>
+  <a href="https://wa.me/212652182486" target="blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/25D366/whatsapp.png" alt="WhatsApp" height="30" width="30" style="transition: transform 0.3s ease;"/>
+  </a>
+  <a href="mailto:momonaim01@gmail.com">
+    <img align="center" src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png" alt="Email" height="30" width="30" style="transition: transform 0.3s ease;"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
