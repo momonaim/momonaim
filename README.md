@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **momonaim01@gmail.com**
 
-- 📄 Know about my experiences [momonaim.github.io](https://momonaim.github.io)
+- 📄 Know about my experiences [**momonaim.github.io**](https://momonaim.github.io)
+
+- [**Portfolio**](https://momonaim-portfolio.netlify.app)
 
 ## 📞 Connect with me:
 <p align="left">
