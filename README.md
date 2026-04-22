@@ -4,8 +4,8 @@
 ### Full Stack Developer | Computer Engineering Student | DevOps Enthusiast
 
 <p align="center">
-  <a href="https://momonaim-portfolio.netlify.app"><b>Portfolio Website</b></a> •
-  <a href="https://momonaim.github.io"><b>Experience Blog</b></a> •
+  <a href="https://momonaim.netlify.app"><b>Portfolio Website</b></a> •
+  <a href="https://momonaim.netlify.app/blogs"><b>Experience Blog</b></a> •
   <a href="mailto:momonaim01@gmail.com"><b>Hire Me</b></a>
 </p>
 
@@ -38,11 +38,11 @@
 | :--- | :--- |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,angular,bootstrap,tailwind" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,spring,php,java,c,cpp" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mariadb,oracle,sqlite,redis" /> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" /> |
 | **DevOps** | <img src="https://skillicons.dev/icons?i=jenkins,githubactions,terraform,ansible,docker,linux,bash" /> |
 | **Tools & Misc** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,ps,figma" /> |
 
-> **Specialized in:** React Native (Mobile), Packer (Infrastructure as Code), and MS SQL Server.
+> **Specialized in:** Mobile Development (Flutter), Infrastructure as Code (Teraform/Packer), Backend Systems (Spring Boot), Databases and Cloud-Native DevOps (Docker, CI/CD)
 
 ---
 
