@@ -134,7 +134,7 @@ Flutter
 # 🧠 ENGINEERING WORKFLOW
 
 ```mermaid
-flowchart TD
+flowchart LR
     A[Idea] --> B[Design Architecture]
     B --> C[Develop Features]
     C --> D[Test & Validate]
